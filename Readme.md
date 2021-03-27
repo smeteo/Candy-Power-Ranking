@@ -21,3 +21,8 @@ candy-data.csv includes attributes for each candy along with its ranking. For bi
 
 ### Acknowledgements:   
 This dataset is Copyright (c) 2014 ESPN Internet Ventures and distributed under an MIT license. Check out the analysis and write-up here: The Ultimate Halloween Candy Power Ranking. Thanks to Walt Hickey for making the data available.   
+
+# Inspiration:  
+Which qualities are associated with higher rankings?  
+What’s the most popular candy? Least popular?  
+Can you recreate the 538 analysis of this dataset?  
